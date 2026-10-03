@@ -832,7 +832,7 @@ export const GROUP_MEMBERS = [
   { id: "u2", name: "Mukut", avatar: "🧔", email: "mukut@example.com", balance: 0 },
   { id: "u3", name: "Pinak", avatar: "🧑‍🦰", email: "pinak@example.com", balance: 0 },
   { id: "u4", name: "Nakul", avatar: "👦", email: "nakul@example.com", balance: 0 },
-  { id: "u5", name: "Pranay", avatar: "👨", email: "saxenapranay2504@gmail.com", balance: 0 },
+  { id: "u5", name: "Pranay", avatar: "👨", email: "pinaksharma1120@gmail.com", balance: 0 },
   { id: "u6", name: "Naman", avatar: "🧔‍♂️", email: "naman@example.com", balance: 0 },
   { id: "u7", name: "Rachit", avatar: "🧑‍🦳", email: "rachit@example.com", balance: 0 }
 ];

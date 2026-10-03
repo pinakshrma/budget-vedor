@@ -32,12 +32,12 @@ async function startServer() {
     
     // Check for specific user requested (supporting potential typos)
     const targetEmail = email?.toLowerCase();
-    if ((targetEmail === "saxenapranay2504@gmail.com" || targetEmail === "saxenapranay2504@gmai.com") && (password === "123" || !password)) {
+    if ((targetEmail === "pinaksharma1120@gmail.com" || targetEmail === "pinaksharma1120@gmai.com") && (password === "123" || !password)) {
       console.log("Premium user login successful");
       return res.json({ 
         token: "auth-token-premium-" + Date.now(), 
         user: { 
-          email: "saxenapranay2504@gmail.com", 
+          email: "pinaksharma1120@gmail.com", 
           name: "pinak sharma",
           role: "System Architect"
         } 

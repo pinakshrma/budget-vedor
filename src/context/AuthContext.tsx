@@ -27,7 +27,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     } else {
       // DEFAULT: Auto-login as pinak sharma
       const defaultUser = { 
-        email: "saxenapranay2504@gmail.com", 
+        email: "pinaksharma1120@gmail.com", 
         name: "pinak sharma",
         role: "System Architect"
       };
