@@ -1,0 +1,13 @@
+{
+  "name": "BudgetWander: The Ultimate Indian Travel Super App",
+  "description": "An all-in-one ecosystem for the Indian traveler combining flight/train/bus/hotel booking, AI itinerary planning, expense management, and location-based intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Travel Booking",
+    "Expense Management",
+    "AI Travel Planning",
+    "Location Blog"
+  ]
+}
