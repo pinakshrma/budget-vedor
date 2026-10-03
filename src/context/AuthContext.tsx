@@ -25,10 +25,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     if (storedUser) {
       setUser(JSON.parse(storedUser));
     } else {
-      // DEFAULT: Auto-login as Pranay Saxena
+      // DEFAULT: Auto-login as pinak sharma
       const defaultUser = { 
         email: "saxenapranay2504@gmail.com", 
-        name: "Pranay Saxena",
+        name: "pinak sharma",
         role: "System Architect"
       };
       setUser(defaultUser);

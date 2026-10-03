@@ -19,7 +19,7 @@ export function Profile() {
   ]);
 
   const [cards, setCards] = useState([
-    { id: "1", last4: "4492", holder: user?.name || "PRANAY SAXENA", type: "VISA" }
+    { id: "1", last4: "4492", holder: user?.name || "pinak sharma", type: "VISA" }
   ]);
 
   const [notifications, setNotifications] = useState({

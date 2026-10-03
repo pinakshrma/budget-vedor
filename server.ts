@@ -38,7 +38,7 @@ async function startServer() {
         token: "auth-token-premium-" + Date.now(), 
         user: { 
           email: "saxenapranay2504@gmail.com", 
-          name: "Pranay Saxena",
+          name: "pinak sharma",
           role: "System Architect"
         } 
       });
